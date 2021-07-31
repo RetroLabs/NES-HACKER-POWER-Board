@@ -4,6 +4,8 @@ This project will be an archive of code written for the NES HACKER POWER board. 
 To Do List
 - Normal play, pass button presses through to NES
 - Swap A/B buttons
+- ESP-32 acks as a light gun
+- ESP32 - acts as a power pad
 - ESP-32 send pre programmed button presses to NES
 - NES button presses to parallel output
 - Display button presses on serial monitor with time stamp 
